@@ -12,6 +12,8 @@
 12. git commit -m "new commit  by ritam"
 13. git branch ritam_dev (creation of new branch)
 14. git branch (checking for all the git branches)
+15. git log -t
+16. git log -p
 
 
 

@@ -1,0 +1,9 @@
+1. git init (repository initialize)
+2. git status (check status for unchecked files)
+3. git add . (unchecked files gotten checked i.e.. it got ready to commit)
+4. git config --global user.name "Ritam Das"
+5. git config --global user.name 
+6. git config --global user.email "ritamchowbaga@gmail.com" 
+7. git config --global user.email 
+8. git remote add origin https://github.com/Ritam1D/repo_ritam.git  (connecting to github repo from local machine)
+9. git status
